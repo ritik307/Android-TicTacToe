@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="AliceBlue">#f0f8ff</color>
+    <color name="MintCream">#f5fffa</color>
+    <color name="Lavender">#e6e6fa</color>
+    <color name="AntiqueWhite">#faebd7</color>
+    <color name="MistyRose">#ffe4e1</color>
+    <color name="PaleTurquoise">#afeeee</color>
+</resources>

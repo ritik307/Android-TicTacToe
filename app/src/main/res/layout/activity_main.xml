@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:gravity="center"
+        android:background="@color/AntiqueWhite"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+    <TableRow
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b01" android:onClick="buclick"
+                android:fontFamily="sans-serif-thin" android:typeface="monospace" android:textSize="18sp"/>
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b02" android:onClick="buclick"
+                android:fontFamily="sans-serif" android:typeface="monospace" android:textSize="18sp"/>
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b03" android:onClick="buclick"
+                android:fontFamily="sans-serif" android:typeface="monospace" android:textSize="18sp"/>
+    </TableRow>
+    <TableRow
+
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b04" android:onClick="buclick"
+                android:fontFamily="sans-serif" android:typeface="monospace" android:textSize="18sp"/>
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b05" android:onClick="buclick"
+                android:fontFamily="sans-serif" android:typeface="monospace" android:textSize="18sp"/>
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b06" android:onClick="buclick"
+                android:fontFamily="sans-serif" android:typeface="monospace" android:textSize="18sp"/>
+    </TableRow>
+    <TableRow
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b07" android:onClick="buclick"
+                android:fontFamily="sans-serif" android:typeface="monospace" android:textSize="18sp"/>
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b08" android:onClick="buclick"
+                android:fontFamily="sans-serif" android:typeface="monospace" android:textSize="18sp"/>
+        <Button
+                android:background="@color/colorPrimary"
+                android:layout_marginRight="3pt"
+                android:layout_marginBottom="3pt"
+                android:layout_width="40pt"
+                android:layout_height="40pt" android:id="@+id/b09" android:onClick="buclick"
+                android:fontFamily="sans-serif" android:typeface="monospace" android:textSize="18sp"/>
+    </TableRow>
+</TableLayout>
