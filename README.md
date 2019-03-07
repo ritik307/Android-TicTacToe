@@ -4,3 +4,5 @@ AI based TicTacToe game
 The application support android version 4.4.2 (Kitkat) or above
 # Discription
 This application is a single player TicTacToe game with AI as opponent 
+# Screenshots
+![](screenshots/one.PNG)
